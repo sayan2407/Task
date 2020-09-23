@@ -15,3 +15,4 @@ fi
 done
 echo "No. of Roll : $i"
 echo "1st Dice : $dice1 and 2 nd Dice : $dice2"
+echo "Sum of Roll is : $(( dice1+dice2 ))"
