@@ -1,3 +1,3 @@
 #! /usr/bin/bash
 shopt -s extglob
-echo "BridgeLabcodinclub" | egrep "[codinclub]"
+echo "BridgeLabcodinclub" | egrep "*[codinclub]*"
