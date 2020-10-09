@@ -21,6 +21,8 @@ class Stage4
     System.out.println("-------------------------");
     System.out.println("-------------------------");
     System.out.println("Digit\tFrequency");
+    System.out.println("-------------------------");
+    System.out.println("-------------------------");
     q=num;
     for(int i=0;i<10;i++)
     {
